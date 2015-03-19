@@ -1,0 +1,27 @@
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "7gU-K7-Fjx"; */
+"7gU-K7-Fjx.text" = "Share your picture";
+
+/* Class = "IBUIButton"; normalTitle = "Share now"; ObjectID = "M22-ew-FyQ"; */
+"M22-ew-FyQ.normalTitle" = "Share now";
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "Oev-sU-Bsm"; */
+"Oev-sU-Bsm.text" = "Share your picture";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Facebook"; ObjectID = "d7p-70-fo5"; */
+"d7p-70-fo5.normalTitle" = "Connect with Facebook";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "hda-lB-HtQ"; */
+"hda-lB-HtQ.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Email"; ObjectID = "jXB-oj-604"; */
+"jXB-oj-604.normalTitle" = "Connect with Email";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Twitter"; ObjectID = "uzP-io-bE5"; */
+"uzP-io-bE5.normalTitle" = "Connect with Twitter";
+
+/* Class = "IBUIButton"; normalTitle = "No social tag?"; ObjectID = "wrJ-xd-xqx"; */
+"wrJ-xd-xqx.normalTitle" = "No social tag?";
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "xvw-nh-U8r"; */
+"xvw-nh-U8r.text" = "Share your picture";

@@ -1,0 +1,42 @@
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Twitter"; ObjectID = "8bf-IN-ejB"; */
+"8bf-IN-ejB.normalTitle" = "Connect with Twitter";
+
+/* Class = "IBUILabel"; text = "Use your social tag"; ObjectID = "9mm-mP-woK"; */
+"9mm-mP-woK.text" = "Use your social tag";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "D8f-wJ-ABn"; */
+"D8f-wJ-ABn.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "Fge-uW-QEm"; */
+"Fge-uW-QEm.text" = "Share your picture";
+
+/* Class = "IBUIButton"; normalTitle = "Add a friend"; ObjectID = "OaL-va-dhE"; */
+"OaL-va-dhE.normalTitle" = "Add a friend";
+
+/* Class = "IBUIButton"; normalTitle = "Share now"; ObjectID = "Ysg-fm-spB"; */
+"Ysg-fm-spB.normalTitle" = "Share now";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Email"; ObjectID = "glJ-Wb-8dD"; */
+"glJ-Wb-8dD.normalTitle" = "Connect with Email";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Facebook"; ObjectID = "guK-N8-x89"; */
+"guK-N8-x89.normalTitle" = "Connect with Facebook";
+
+/* Class = "IBUILabel"; text = "Don't have a social tag?"; ObjectID = "isU-dg-0gi"; */
+"isU-dg-0gi.text" = "Don't have a social tag?";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Email"; ObjectID = "nkd-gG-26L"; */
+"nkd-gG-26L.normalTitle" = "Connect with Email";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Facebook"; ObjectID = "oPj-f9-gT4"; */
+"oPj-f9-gT4.normalTitle" = "Connect with Facebook";
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "rs3-ZH-nC3"; */
+"rs3-ZH-nC3.text" = "Share your picture";
+
+/* Class = "IBUILabel"; text = "Share your picture"; ObjectID = "vym-RZ-YOJ"; */
+"vym-RZ-YOJ.text" = "Share your picture";
+
+/* Class = "IBUIButton"; normalTitle = "Connect with Twitter"; ObjectID = "yAK-qw-RvC"; */
+"yAK-qw-RvC.normalTitle" = "Connect with Twitter";

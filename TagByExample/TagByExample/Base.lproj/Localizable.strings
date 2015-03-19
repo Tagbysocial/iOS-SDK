@@ -1,0 +1,19 @@
+/* 
+  Localization.strings
+  TagByExample
+
+  Created by Alek on 22.11.2014.
+  Copyright (c) 2014 TagBy. All rights reserved.
+*/
+
+"CheckingApplication" = "Checking application...";
+"ApplicationProblem" = "Error verifying application.";
+"NetworkProblem" = "Network connection problem.";
+"LoadingCampaigns" = "Loading campaigns...";
+"ShareYourPicture" = "Share your picture";
+"ShareExample" = "Share this picture";
+"CheckingTag" = "Checking user's social tag...";
+"AddFriend" = "Add a friend";
+"Publishing" = "Publishing...";
+"MessagePublished" = "Message published.";
+"YourFriendCanShare" = "Your friend can also share with you\nusing the social tag or a simple social connect!";

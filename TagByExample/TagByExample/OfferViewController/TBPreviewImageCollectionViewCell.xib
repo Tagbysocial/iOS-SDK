@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TBPreviewImageCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="240"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cxN-nR-gGZ">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="240"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ring.png" translatesAutoresizingMaskIntoConstraints="NO" id="QbM-J8-ulA">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="240"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="kTc-fx-aec">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="240"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="QbM-J8-ulA" firstAttribute="top" secondItem="cxN-nR-gGZ" secondAttribute="top" id="4gv-bR-Gfy"/>
+                        <constraint firstItem="kTc-fx-aec" firstAttribute="leading" secondItem="cxN-nR-gGZ" secondAttribute="leading" id="5yd-QI-A07"/>
+                        <constraint firstAttribute="bottom" secondItem="kTc-fx-aec" secondAttribute="bottom" id="7oV-pJ-mS9"/>
+                        <constraint firstItem="QbM-J8-ulA" firstAttribute="leading" secondItem="cxN-nR-gGZ" secondAttribute="leading" id="BVt-U5-1WN"/>
+                        <constraint firstItem="kTc-fx-aec" firstAttribute="top" secondItem="cxN-nR-gGZ" secondAttribute="top" id="GFT-tN-p60"/>
+                        <constraint firstAttribute="trailing" secondItem="kTc-fx-aec" secondAttribute="trailing" id="K2F-mW-35q"/>
+                        <constraint firstAttribute="bottom" secondItem="QbM-J8-ulA" secondAttribute="bottom" id="LAt-m4-Csi"/>
+                        <constraint firstAttribute="trailing" secondItem="QbM-J8-ulA" secondAttribute="trailing" id="yYj-LQ-YCv"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="cxN-nR-gGZ" secondAttribute="bottom" id="Hwm-Im-aE3"/>
+                <constraint firstItem="cxN-nR-gGZ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Iz0-9g-OMf"/>
+                <constraint firstItem="cxN-nR-gGZ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="bFe-ly-wuR"/>
+                <constraint firstAttribute="trailing" secondItem="cxN-nR-gGZ" secondAttribute="trailing" id="n6S-aH-X3r"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backgroundView" destination="cxN-nR-gGZ" id="ZYn-cj-QHN"/>
+                <outlet property="imageView" destination="kTc-fx-aec" id="PrZ-6c-lyF"/>
+                <outlet property="placeholderImageView" destination="QbM-J8-ulA" id="rBQ-4D-aO0"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="ring.png" width="40" height="40"/>
+    </resources>
+</document>
